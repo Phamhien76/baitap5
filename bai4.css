@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+#main{
+    width: 1000px;
+    height: 100%;
+    background-color: #F2F3F5;
+}
+.content_first{
+    width: 1000px;
+    height: 100px;
+}
+.content_first > h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#7F8082 ;
+}
+.content_first > p{
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#D3D4D6 ;
+}
+.content_under{
+    width: 1024px;
+    height: 100%;
+    padding: 0 20px;
+}
+.content_under--left{
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin:10px;
+}
+.content_under--left > div{
+    width: 100%;
+    height: 120px;
+    background-color:#5B9BD5 ;
+    margin: 10px;
+    border-radius: 3px;
+}
+.content_under--left > h3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#656565 ;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.content_under--left > p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#D5D5D5 ;
+    padding: 0 10px;    
+}
+.content_under--middle{
+    width: 30%;
+    height: 100%;
+
+    float: left;
+    margin:10px;
+}
+.content_under--middle > div{
+    width: 100%;
+    height: 120px;
+    background-color:#5B9BD5 ;
+    margin: 10px;
+    border-radius: 3px;
+}
+.content_under--middle > h3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#656565 ;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.content_under--middle > p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#D5D5D5 ;
+    padding: 0 10px;    
+}
+.content_under--right{
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin:10px;
+}
+.content_under--right > div{
+    width: 100%;
+    height: 120px;
+    background-color:#5B9BD5 ;
+    margin: 10px;
+    border-radius: 3px;
+}
+.content_under--right > h3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#656565 ;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.content_under--right > p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#D5D5D5 ;
+    padding: 0 10px;    
+}
